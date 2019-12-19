@@ -1,0 +1,139 @@
+2019-12-18 12:33:12,188 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2019-12-18 12:34:34,475 [Worker-0: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /tacos2/src/main/java
+2019-12-18 12:34:34,476 [Worker-0: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /tacos2/src/main/resources
+2019-12-18 12:34:34,483 [Worker-0: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /tacos2/src/main/resources
+2019-12-18 12:34:34,489 [Worker-0: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /tacos2/src/test/java
+2019-12-18 12:34:34,948 [Worker-0: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 2 sec
+2019-12-18 12:34:34,950 [Worker-0: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2019-12-18 12:34:35,290 [Worker-0: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:tacos2:0.0.1-SNAPSHOT @ C:\Users\Annika\Desktop\(IDE)\W.O.R.K.S\SpringToolSuite\CLASSWORK\chap2\tacos2\pom.xml.
+2019-12-18 12:34:35,563 [Worker-0: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /tacos2/src/main/java
+2019-12-18 12:34:35,563 [Worker-0: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /tacos2/src/main/resources
+2019-12-18 12:34:35,563 [Worker-0: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /tacos2/src/main/resources
+2019-12-18 12:34:35,563 [Worker-0: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /tacos2/src/test/java
+2019-12-18 12:34:35,730 [Worker-0: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2019-12-18 12:34:36,343 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-18 12:34:36,346 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-12-18 12:34:36,354 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-12-18 12:34:36,356 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-18 12:34:36,356 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Annika\Desktop\(IDE)\W.O.R.K.S\SpringToolSuite\CLASSWORK\chap2\tacos2\src\test\resources
+2019-12-18 12:37:35,214 [Worker-9: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: sia:taco-cloud:0.0.2-SNAPSHOT @ C:\Users\Annika\Documents\spring-in-action-5-samples-master\ch02\tacos\pom.xml.
+2019-12-18 12:37:35,812 [Worker-9: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /taco-cloud/src/main/java
+2019-12-18 12:37:35,813 [Worker-9: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /taco-cloud/src/main/resources
+2019-12-18 12:37:35,816 [Worker-9: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /taco-cloud/src/main/resources
+2019-12-18 12:37:35,819 [Worker-9: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /taco-cloud/src/test/java
+2019-12-18 12:37:36,188 [Worker-9: Importing Maven projects] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 1 sec
+2019-12-18 12:37:37,368 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-18 12:37:37,369 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-12-18 12:37:37,379 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2019-12-18 12:37:37,415 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-18 12:37:37,416 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Annika\Documents\spring-in-action-5-samples-master\ch02\tacos\src\test\resources
+2019-12-18 12:40:55,542 [Worker-12: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: sia:taco-cloud:0.0.2-SNAPSHOT @ C:\Users\Annika\Desktop\(IDE)\W.O.R.K.S\SpringToolSuite\CLASSWORK\chap2\tacos2\pom.xml.
+2019-12-18 12:40:55,928 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-18 12:40:55,929 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-12-18 12:40:55,929 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-12-18 12:40:55,930 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-18 12:40:55,931 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Annika\Desktop\(IDE)\W.O.R.K.S\SpringToolSuite\CLASSWORK\chap2\tacos2\src\test\resources
+2019-12-18 12:40:57,326 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-18 12:40:57,327 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-12-18 12:40:57,328 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-12-18 12:40:57,329 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-18 12:40:57,329 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Annika\Desktop\(IDE)\W.O.R.K.S\SpringToolSuite\CLASSWORK\chap2\tacos2\src\test\resources
+2019-12-18 12:41:20,171 [Worker-12: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: sia:taco-cloud:0.0.2-SNAPSHOT @ C:\Users\Annika\Desktop\(IDE)\W.O.R.K.S\SpringToolSuite\CLASSWORK\chap2\tacos2\pom.xml.
+2019-12-18 12:41:20,448 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-18 12:41:20,448 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-12-18 12:41:20,448 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-12-18 12:41:20,449 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-18 12:41:20,449 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Annika\Desktop\(IDE)\W.O.R.K.S\SpringToolSuite\CLASSWORK\chap2\tacos2\src\test\resources
+2019-12-18 12:41:37,012 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-18 12:41:37,012 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-12-18 12:41:37,012 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-12-18 12:41:37,013 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-18 12:41:37,014 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Annika\Desktop\(IDE)\W.O.R.K.S\SpringToolSuite\CLASSWORK\chap2\tacos2\src\test\resources
+2019-12-18 12:42:03,225 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-18 12:42:03,226 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-12-18 12:42:03,226 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-12-18 12:42:03,227 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-18 12:42:03,227 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Annika\Desktop\(IDE)\W.O.R.K.S\SpringToolSuite\CLASSWORK\chap2\tacos2\src\test\resources
+2019-12-18 12:42:24,303 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-18 12:42:24,303 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-12-18 12:42:24,304 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-12-18 12:42:24,306 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-18 12:42:24,306 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Annika\Desktop\(IDE)\W.O.R.K.S\SpringToolSuite\CLASSWORK\chap2\tacos2\src\test\resources
+2019-12-18 12:42:43,584 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-18 12:42:43,584 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-12-18 12:42:43,585 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-12-18 12:42:43,587 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-18 12:42:43,587 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Annika\Desktop\(IDE)\W.O.R.K.S\SpringToolSuite\CLASSWORK\chap2\tacos2\src\test\resources
+2019-12-18 12:42:47,544 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-18 12:42:47,545 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-12-18 12:42:47,545 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-12-18 12:42:47,547 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-18 12:42:47,547 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Annika\Desktop\(IDE)\W.O.R.K.S\SpringToolSuite\CLASSWORK\chap2\tacos2\src\test\resources
+2019-12-18 12:43:01,933 [Worker-18: Match Job] ERROR o.e.m.i.l.MavenConsoleLineTracker - Launch configuration taco-cloud - TacoCloudApplication at file:/C:/Users/Annika/Desktop/(IDE)/W.O.R.K.S/SpringToolSuite/CLASSWORK/chap2/.metadata/.plugins/org.eclipse.debug.core/.launches/taco-cloud%20-%20TacoCloudApplication.launch does not exist.
+org.eclipse.debug.core.DebugException: Launch configuration taco-cloud - TacoCloudApplication at file:/C:/Users/Annika/Desktop/(IDE)/W.O.R.K.S/SpringToolSuite/CLASSWORK/chap2/.metadata/.plugins/org.eclipse.debug.core/.launches/taco-cloud%20-%20TacoCloudApplication.launch does not exist.
+	at org.eclipse.debug.internal.core.LaunchManager.createDebugException(LaunchManager.java:886) ~[org.eclipse.debug.core_3.14.0.v20190812-1404.jar:na]
+	at org.eclipse.debug.internal.core.LaunchManager.getInfo(LaunchManager.java:1381) ~[org.eclipse.debug.core_3.14.0.v20190812-1404.jar:na]
+	at org.eclipse.debug.internal.core.LaunchConfiguration.getInfo(LaunchConfiguration.java:489) ~[org.eclipse.debug.core_3.14.0.v20190812-1404.jar:na]
+	at org.eclipse.debug.internal.core.LaunchConfiguration.getType(LaunchConfiguration.java:644) ~[org.eclipse.debug.core_3.14.0.v20190812-1404.jar:na]
+	at org.eclipse.m2e.internal.launch.MavenConsoleLineTracker.isMavenProcess(MavenConsoleLineTracker.java:142) [org.eclipse.m2e.launching_1.13.0.20190716-1624.jar:na]
+	at org.eclipse.m2e.internal.launch.MavenConsoleLineTracker.lineAppended(MavenConsoleLineTracker.java:85) [org.eclipse.m2e.launching_1.13.0.20190716-1624.jar:na]
+	at org.eclipse.debug.internal.ui.views.console.ConsoleLineNotifier.lineAppended(ConsoleLineNotifier.java:124) [org.eclipse.debug.ui_3.14.200.v20190822-2125.jar:na]
+	at org.eclipse.debug.internal.ui.views.console.ConsoleLineNotifier.matchFound(ConsoleLineNotifier.java:116) [org.eclipse.debug.ui_3.14.200.v20190822-2125.jar:na]
+	at org.eclipse.ui.internal.console.ConsolePatternMatcher$MatchJob.run(ConsolePatternMatcher.java:137) [org.eclipse.ui.console_3.8.600.v20190815-2020.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63) [org.eclipse.core.jobs_3.10.500.v20190620-1426.jar:na]
+2019-12-18 12:43:01,939 [Worker-18: Match Job] ERROR o.e.m.i.l.MavenConsoleLineTracker - Launch configuration taco-cloud - TacoCloudApplication at file:/C:/Users/Annika/Desktop/(IDE)/W.O.R.K.S/SpringToolSuite/CLASSWORK/chap2/.metadata/.plugins/org.eclipse.debug.core/.launches/taco-cloud%20-%20TacoCloudApplication.launch does not exist.
+org.eclipse.debug.core.DebugException: Launch configuration taco-cloud - TacoCloudApplication at file:/C:/Users/Annika/Desktop/(IDE)/W.O.R.K.S/SpringToolSuite/CLASSWORK/chap2/.metadata/.plugins/org.eclipse.debug.core/.launches/taco-cloud%20-%20TacoCloudApplication.launch does not exist.
+	at org.eclipse.debug.internal.core.LaunchManager.createDebugException(LaunchManager.java:886) ~[org.eclipse.debug.core_3.14.0.v20190812-1404.jar:na]
+	at org.eclipse.debug.internal.core.LaunchManager.getInfo(LaunchManager.java:1381) ~[org.eclipse.debug.core_3.14.0.v20190812-1404.jar:na]
+	at org.eclipse.debug.internal.core.LaunchConfiguration.getInfo(LaunchConfiguration.java:489) ~[org.eclipse.debug.core_3.14.0.v20190812-1404.jar:na]
+	at org.eclipse.debug.internal.core.LaunchConfiguration.getType(LaunchConfiguration.java:644) ~[org.eclipse.debug.core_3.14.0.v20190812-1404.jar:na]
+	at org.eclipse.m2e.internal.launch.MavenConsoleLineTracker.isMavenProcess(MavenConsoleLineTracker.java:142) [org.eclipse.m2e.launching_1.13.0.20190716-1624.jar:na]
+	at org.eclipse.m2e.internal.launch.MavenConsoleLineTracker.lineAppended(MavenConsoleLineTracker.java:85) [org.eclipse.m2e.launching_1.13.0.20190716-1624.jar:na]
+	at org.eclipse.debug.internal.ui.views.console.ConsoleLineNotifier.lineAppended(ConsoleLineNotifier.java:124) [org.eclipse.debug.ui_3.14.200.v20190822-2125.jar:na]
+	at org.eclipse.debug.internal.ui.views.console.ConsoleLineNotifier.matchFound(ConsoleLineNotifier.java:116) [org.eclipse.debug.ui_3.14.200.v20190822-2125.jar:na]
+	at org.eclipse.ui.internal.console.ConsolePatternMatcher$MatchJob.run(ConsolePatternMatcher.java:137) [org.eclipse.ui.console_3.8.600.v20190815-2020.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63) [org.eclipse.core.jobs_3.10.500.v20190620-1426.jar:na]
+2019-12-18 12:43:01,943 [Worker-18: Match Job] ERROR o.e.m.i.l.MavenConsoleLineTracker - Launch configuration taco-cloud - TacoCloudApplication at file:/C:/Users/Annika/Desktop/(IDE)/W.O.R.K.S/SpringToolSuite/CLASSWORK/chap2/.metadata/.plugins/org.eclipse.debug.core/.launches/taco-cloud%20-%20TacoCloudApplication.launch does not exist.
+org.eclipse.debug.core.DebugException: Launch configuration taco-cloud - TacoCloudApplication at file:/C:/Users/Annika/Desktop/(IDE)/W.O.R.K.S/SpringToolSuite/CLASSWORK/chap2/.metadata/.plugins/org.eclipse.debug.core/.launches/taco-cloud%20-%20TacoCloudApplication.launch does not exist.
+	at org.eclipse.debug.internal.core.LaunchManager.createDebugException(LaunchManager.java:886) ~[org.eclipse.debug.core_3.14.0.v20190812-1404.jar:na]
+	at org.eclipse.debug.internal.core.LaunchManager.getInfo(LaunchManager.java:1381) ~[org.eclipse.debug.core_3.14.0.v20190812-1404.jar:na]
+	at org.eclipse.debug.internal.core.LaunchConfiguration.getInfo(LaunchConfiguration.java:489) ~[org.eclipse.debug.core_3.14.0.v20190812-1404.jar:na]
+	at org.eclipse.debug.internal.core.LaunchConfiguration.getType(LaunchConfiguration.java:644) ~[org.eclipse.debug.core_3.14.0.v20190812-1404.jar:na]
+	at org.eclipse.m2e.internal.launch.MavenConsoleLineTracker.isMavenProcess(MavenConsoleLineTracker.java:142) [org.eclipse.m2e.launching_1.13.0.20190716-1624.jar:na]
+	at org.eclipse.m2e.internal.launch.MavenConsoleLineTracker.lineAppended(MavenConsoleLineTracker.java:85) [org.eclipse.m2e.launching_1.13.0.20190716-1624.jar:na]
+	at org.eclipse.debug.internal.ui.views.console.ConsoleLineNotifier.lineAppended(ConsoleLineNotifier.java:124) [org.eclipse.debug.ui_3.14.200.v20190822-2125.jar:na]
+	at org.eclipse.debug.internal.ui.views.console.ConsoleLineNotifier.matchFound(ConsoleLineNotifier.java:116) [org.eclipse.debug.ui_3.14.200.v20190822-2125.jar:na]
+	at org.eclipse.ui.internal.console.ConsolePatternMatcher$MatchJob.run(ConsolePatternMatcher.java:137) [org.eclipse.ui.console_3.8.600.v20190815-2020.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63) [org.eclipse.core.jobs_3.10.500.v20190620-1426.jar:na]
+2019-12-18 12:43:04,352 [Worker-17: Match Job] ERROR o.e.m.i.l.MavenConsoleLineTracker - Launch configuration taco-cloud - TacoCloudApplication at file:/C:/Users/Annika/Desktop/(IDE)/W.O.R.K.S/SpringToolSuite/CLASSWORK/chap2/.metadata/.plugins/org.eclipse.debug.core/.launches/taco-cloud%20-%20TacoCloudApplication.launch does not exist.
+org.eclipse.debug.core.DebugException: Launch configuration taco-cloud - TacoCloudApplication at file:/C:/Users/Annika/Desktop/(IDE)/W.O.R.K.S/SpringToolSuite/CLASSWORK/chap2/.metadata/.plugins/org.eclipse.debug.core/.launches/taco-cloud%20-%20TacoCloudApplication.launch does not exist.
+	at org.eclipse.debug.internal.core.LaunchManager.createDebugException(LaunchManager.java:886) ~[org.eclipse.debug.core_3.14.0.v20190812-1404.jar:na]
+	at org.eclipse.debug.internal.core.LaunchManager.getInfo(LaunchManager.java:1381) ~[org.eclipse.debug.core_3.14.0.v20190812-1404.jar:na]
+	at org.eclipse.debug.internal.core.LaunchConfiguration.getInfo(LaunchConfiguration.java:489) ~[org.eclipse.debug.core_3.14.0.v20190812-1404.jar:na]
+	at org.eclipse.debug.internal.core.LaunchConfiguration.getType(LaunchConfiguration.java:644) ~[org.eclipse.debug.core_3.14.0.v20190812-1404.jar:na]
+	at org.eclipse.m2e.internal.launch.MavenConsoleLineTracker.isMavenProcess(MavenConsoleLineTracker.java:142) [org.eclipse.m2e.launching_1.13.0.20190716-1624.jar:na]
+	at org.eclipse.m2e.internal.launch.MavenConsoleLineTracker.lineAppended(MavenConsoleLineTracker.java:85) [org.eclipse.m2e.launching_1.13.0.20190716-1624.jar:na]
+	at org.eclipse.debug.internal.ui.views.console.ConsoleLineNotifier.lineAppended(ConsoleLineNotifier.java:124) [org.eclipse.debug.ui_3.14.200.v20190822-2125.jar:na]
+	at org.eclipse.debug.internal.ui.views.console.ConsoleLineNotifier.disconnect(ConsoleLineNotifier.java:72) [org.eclipse.debug.ui_3.14.200.v20190822-2125.jar:na]
+	at org.eclipse.ui.internal.console.ConsolePatternMatcher$CompiledPatternMatchListener.dispose(ConsolePatternMatcher.java:198) [org.eclipse.ui.console_3.8.600.v20190815-2020.jar:na]
+	at org.eclipse.ui.internal.console.ConsolePatternMatcher.disconnect(ConsolePatternMatcher.java:260) [org.eclipse.ui.console_3.8.600.v20190815-2020.jar:na]
+	at org.eclipse.ui.internal.console.ConsolePatternMatcher$MatchJob.run(ConsolePatternMatcher.java:164) [org.eclipse.ui.console_3.8.600.v20190815-2020.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63) [org.eclipse.core.jobs_3.10.500.v20190620-1426.jar:na]
+2019-12-18 12:43:11,188 [Worker-16: Launching Executing clean in C__Users_Annika_Desktop_(IDE)_W.O.R.K.S_SpringToolSuite_CLASSWORK_chap2_tacos2] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\Annika\Desktop\(IDE)\W.O.R.K.S\SpringToolSuite\CLASSWORK\chap2\tacos2
+2019-12-18 12:43:11,189 [Worker-16: Launching Executing clean in C__Users_Annika_Desktop_(IDE)_W.O.R.K.S_SpringToolSuite_CLASSWORK_chap2_tacos2] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -Ppom.xml -B clean -Dstyle.color=always
+2019-12-18 12:43:12,407 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-18 12:43:12,407 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-12-18 12:43:12,408 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-12-18 12:43:12,409 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-18 12:43:12,409 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Annika\Desktop\(IDE)\W.O.R.K.S\SpringToolSuite\CLASSWORK\chap2\tacos2\src\test\resources
+2019-12-18 12:49:31,922 [Worker-18: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: sia:taco-cloud:0.0.2-SNAPSHOT @ C:\Users\Annika\Desktop\(IDE)\W.O.R.K.S\SpringToolSuite\CLASSWORK\chap2\tacos\pom.xml.
+2019-12-18 12:49:32,346 [Worker-18: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /tacos/src/main/java
+2019-12-18 12:49:32,347 [Worker-18: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /tacos/src/main/resources
+2019-12-18 12:49:32,347 [Worker-18: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /tacos/src/main/resources
+2019-12-18 12:49:32,347 [Worker-18: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /tacos/src/test/java
+2019-12-18 12:49:32,449 [Worker-18: Importing Maven projects] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 0 sec
+2019-12-18 12:49:33,126 [Worker-26: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-18 12:49:33,127 [Worker-26: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-12-18 12:49:33,136 [Worker-26: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2019-12-18 12:49:33,165 [Worker-26: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-18 12:49:33,166 [Worker-26: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Annika\Desktop\(IDE)\W.O.R.K.S\SpringToolSuite\CLASSWORK\chap2\tacos\src\test\resources
